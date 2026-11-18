@@ -1,0 +1,6 @@
+{
+  "appId": "com.amapnav.demo",
+  "appName": "Amap Nav",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
